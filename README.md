@@ -1,5 +1,5 @@
 Hi, I’m @sarariser
-I'm interested in automation and writing functional programs to make life easier
+-I'm interested in automation and writing functional programs to make life easier
 🌱 I’m currently learning ComptiaA+ material & Python
 
 <!---
